@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Gateway Dotpay\n"
+"POT-Creation-Date: 2014-07-25 12:09+0100\n"
+"PO-Revision-Date: 2014-07-25 12:27+0100\n"
+"Last-Translator: Michak <michal.groele@roketto.eu>\n"
+"Language-Team: Michak <http://michak.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../woocommerce-gateway-dotpay.php:49
+msgid "Credit card payment via Dotpay"
+msgstr "Płatność poprzez Dotpay"
+
+#: ../woocommerce-gateway-dotpay.php:63
+msgid "Enable/Disable"
+msgstr "Włącz/Wyłącz"
+
+#: ../woocommerce-gateway-dotpay.php:65
+msgid "Enable Dotpay Payment"
+msgstr "Włącz Płatności Dotpay"
+
+#: ../woocommerce-gateway-dotpay.php:69
+msgid "Dotpay customer ID"
+msgstr "ID klienta Dotpay"
+
+#: ../woocommerce-gateway-dotpay.php:74
+msgid "Title"
+msgstr "Tytuł"
+
+#: ../woocommerce-gateway-dotpay.php:76
+msgid "This controls the title which user sees during checkout."
+msgstr "Tytuł, który widzi użytkownik podczas składania zamówienia."
+
+#: ../woocommerce-gateway-dotpay.php:81
+msgid "Customer Message"
+msgstr "Wiadomość dla Klienta"
+
+#: ../woocommerce-gateway-dotpay.php:98
+msgid ""
+"Thank you - your order is now pending payment. You should be automatically "
+"redirected to Dotpay to make payment."
+msgstr ""
+"Dziękujemy - twoje zamówienie jest teraz przetwarzane. Powinieneś zostać "
+"automatycznie przekierowany do Dotpay aby dokonać płatności."
+
+#: ../woocommerce-gateway-dotpay.php:127
+msgid ""
+"Thank you for your order. We are now redirecting you to Dotpay to make "
+"payment."
+msgstr ""
+"Dziękujemy za zamówienie. Zostaniesz przekierowany teraz do Dotpay, aby "
+"dokonać płatności."
+
+#: ../includes/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "Zainstaluj Wymagane Wtyczki"
+
+#: ../includes/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr "Zainstaluj Wtyczki"
+
+#: ../includes/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalowanie Wtyczki: %s"
+
+#: ../includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Coś poszło nie tak."
+
+#: ../includes/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do Instalatora Wymaganych Wtyczek"
+
+#: ../includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Powrót do kokpitu"
+
+#: ../includes/class-tgm-plugin-activation.php:212
+#: ../includes/class-tgm-plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr "Wtyczka została aktywowana poprawnie."
+
+#: ../includes/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr "Następujące wtyczki zostały aktywowane poprawnie:"
+
+#: ../includes/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i aktywowane. %1$s"
+
+#: ../includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "Ukryj tą wiadomość"
+
+#: ../includes/class-tgm-plugin-activation.php:544
+#: ../includes/class-tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr "Powrót do Kokpitu"
+
+#: ../includes/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr "Prywatne Repozytorium"
+
+#: ../includes/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr "Spakowany"
+
+#: ../includes/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress"
+
+#: ../includes/class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr "Wymagany"
+
+#: ../includes/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr "Zalecany"
+
+#: ../includes/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr "Nie Zainstalowany"
+
+#: ../includes/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr "Zainstalowany Ale Nie Aktywowany"
+
+#: ../includes/class-tgm-plugin-activation.php:1290
+#: ../includes/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: ../includes/class-tgm-plugin-activation.php:1312
+#: ../includes/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: ../includes/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Brak wtyczek do zainstalowania lub aktywacji. <a href=\"%1$s\" title="
+"\"Powrót do Kokpitu\">Powrót do Kokpitu</a>"
+
+#: ../includes/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: ../includes/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr "Źródło"
+
+#: ../includes/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr "Typ"
+
+#: ../includes/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr "Status"
+
+#: ../includes/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr "Nie ma żadnych wtyczke do zainstalowania w tym momencie."
+
+#: ../includes/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr "Nie ma żadnych wtyczek do aktywowania w tym momencie."
+
+#: ../includes/class-tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr "Paczka instalacyjna jest niedostępna."
+
+#: ../includes/class-tgm-plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Pobieranie instalatora z <span class=\"code\">%s</span>&#8230;"
+
+#: ../includes/class-tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr "Rozpakowywanie &#8230;"
+
+#: ../includes/class-tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr "Instalacja wtyczki &#8230;"
+
+#: ../includes/class-tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr "Instalacja wtyczki nie powiodła się."
+
+#: ../includes/class-tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr "Wtyczka została zainstalowana poprawnie."
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr "Aktywacja wtyczki nie powiodła się."
+
+#: ../includes/class-tgm-plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalacji oraz aktywacji został rozpoczęty. Ten proces może zająć "
+"chwilę na niektórych serwerach, prosimy o cierpliwość."
+
+#: ../includes/class-tgm-plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s został zainstalowany i aktywowany poprawnie."
+
+#: ../includes/class-tgm-plugin-activation.php:2065
+#: ../includes/class-tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr "Pokaż Szczegóły"
+
+#: ../includes/class-tgm-plugin-activation.php:2065
+#: ../includes/class-tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr "Ukryj Szczegóły"
+
+#: ../includes/class-tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje oraz aktywacje zostały ukończone."
+
+#: ../includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacja oraz Aktywacja Wtyczki %1$s (%2$d/%3$d)"
+
+#: ../includes/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proces instalacji został rozpoczęty. Ten proces może zająć chwilę na "
+"niektórych serwerach, prosimy o cierpliwość."
+
+#: ../includes/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalacji %1$s: <strong>%2$s</strong>."
+
+#: ../includes/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodła się."
+
+#: ../includes/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s został zainstalowany poprawnie."
+
+#: ../includes/class-tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacja zostały ukończone."
+
+#: ../includes/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: ../frontend/templates/woocommerce-dotpay-payment-button.tpl.php:2
+msgid "Transaction Details"
+msgstr "Szczegóły Płatności"
+
+#: ../frontend/templates/woocommerce-dotpay-payment-button.tpl.php:21
+#, php-format
+msgid "Payment for order no. %1$s"
+msgstr "Płatność za zamówienie nr: %1$s"
+
+#: ../frontend/templates/woocommerce-dotpay-payment-button.tpl.php:22
+msgid "Continue"
+msgstr "Kontynuuj"
+
+#: ../frontend/templates/woocommerce-dotpay-payment-button.tpl.php:4
+msgid "You chose payment by Dotpay. Click Continue do proceed"
+msgstr "Wybrałeś płatność poprzez Dotpay. Kliknij Kontynuuj aby przejść dalej."
